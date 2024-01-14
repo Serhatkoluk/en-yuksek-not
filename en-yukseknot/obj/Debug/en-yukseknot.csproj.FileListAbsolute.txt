@@ -1,0 +1,7 @@
+C:\Users\Serhat\Desktop\PT ODEV\en-yukseknot\bin\Debug\en-yukseknot.exe.config
+C:\Users\Serhat\Desktop\PT ODEV\en-yukseknot\bin\Debug\en-yukseknot.exe
+C:\Users\Serhat\Desktop\PT ODEV\en-yukseknot\bin\Debug\en-yukseknot.pdb
+C:\Users\Serhat\Desktop\PT ODEV\en-yukseknot\obj\Debug\en-yukseknot.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\PT ODEV\en-yukseknot\obj\Debug\en-yukseknot.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\PT ODEV\en-yukseknot\obj\Debug\en-yukseknot.exe
+C:\Users\Serhat\Desktop\PT ODEV\en-yukseknot\obj\Debug\en-yukseknot.pdb
